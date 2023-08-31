@@ -1,0 +1,9 @@
+/*Programmed by: <Write your name here>
+Title: PrelimActivity1.java
+Date: <Write date here>*/
+
+public class PrelimActivity1 {
+    public static void main(String[] args) {
+        System.out.println("My First Java Program"); 
+    }
+}
